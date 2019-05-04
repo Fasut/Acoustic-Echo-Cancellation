@@ -1,0 +1,10 @@
+*.aux
+*.gz
+*.txt
+*.nav
+*.out
+*.bbl
+*.toc
+*.snm
+*.blg
+IEEEtran_HOWTO.pdf
