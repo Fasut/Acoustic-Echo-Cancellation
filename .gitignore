@@ -8,3 +8,6 @@
 *.snm
 *.blg
 IEEEtran_HOWTO.pdf
+test*.m
+AEC.m
+*.zip
