@@ -7,6 +7,7 @@
 *.toc
 *.snm
 *.blg
+*.log
 IEEEtran_HOWTO.pdf
 test*.m
 AEC.m
